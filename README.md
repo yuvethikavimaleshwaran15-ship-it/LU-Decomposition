@@ -51,8 +51,11 @@ x = lu_solve((lu,p),b)
 print(x)
 ## Output:
 ##5A)
+
 <img width="616" height="523" alt="image" src="https://github.com/user-attachments/assets/8a608698-6c6a-40f6-879c-f26f4588e8de" />
+
 ##5B)
+
 <img width="432" height="377" alt="{DFEA0A9F-71F8-4479-9687-5D16A40B948A}" src="https://github.com/user-attachments/assets/e5bece78-9192-4df6-a760-c3c4dc91c850" />
 
 
