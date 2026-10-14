@@ -41,7 +41,6 @@ RegisterNumber: 26016105
 '''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
-# To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg  import lu_factor , lu_solve
 a = np.array(eval(input()))
